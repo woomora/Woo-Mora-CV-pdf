@@ -1,4 +1,4 @@
-c# CV
+# CV
 
 This repo links the CV PDF file from Overleaf.
 
